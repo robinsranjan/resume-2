@@ -1,0 +1,85 @@
+ /* 
+ resume
+ list
+ text-center */
+ @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@500&display=swap');
+ *{
+    font-family: 'Baloo 2', cursive;
+
+ }
+
+  
+ .smal-boxes
+ {
+/* border: 2px solid yellow; */
+height: 190px;
+  
+ }
+ .dabba
+ {
+     /* border: 1px solid salmon; */
+      
+     width: 70%;
+     margin: auto;
+     height: 100%;
+ }
+  
+ .certificate-box
+ {
+    /* border: 2px solid red;  */
+    height: 250px;
+    width: 250px;
+ }
+ .certificates
+ {
+     /* border: 2px solid blue; */
+     height: 100%;
+     width: 95%;
+     display: block;
+     margin: auto;
+ }
+ .achivement
+ {
+  height: 300px;   
+  width: 300px;
+  display: flex;
+  justify-content: center;
+
+ }
+ .nav-items
+ {
+font-size: 20px;  
+font-weight: 900;
+ }
+ .resume
+ {
+padding-left: 20px;
+font-size: 30px;
+font-weight: 3000;
+ 
+
+ }
+ .center-dark
+ {
+     text-align: center;
+     font-size: 50px;
+     font-weight: 5000;
+     color: rgb(59, 243, 218);
+     text-transform: capitalize;
+ }
+ 
+ #read{  
+height: 400px;
+
+ }
+ .bottom
+ {
+     background-color: black;
+     color: white;
+     position: relative;
+     bottom: 0;
+     text-align: center;
+ }
+ .dark{
+     font-weight: 4000;
+ }
